@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Roshan Godani",
+    "apNo": "villa 10/apt 129",
+    "address": "Dubai south",
+    "phoneNumber": "9874563210  ",
+    "type": "One time",
+    "buildingNo": "Maple 2,  emirates garden 2"
+  },
+  {
+    "id": "2",
+    "name": "Ayswarya Rya",
+    "apNo": "apt 1801",
+    "address": "alkhel gate",
+    "phoneNumber": "9874563210  ",
+    "type": "Monthly",
+    "buildingNo": "Cluster U Al Seef Twer C"
+  },
+  {
+    "id": "3",
+    "name": "Jarltech Gulf",
+    "apNo": "apt 1801",
+    "address": "jebel ali free zone",
+    "phoneNumber": "9874563210  ",
+    "type": "Weekly",
+    "buildingNo": "Roxana B"
+  },
+  {
+    "id": "4",
+    "name": "Deepthi Sooraj",
+    "apNo": "apt 1801",
+    "address": "Damac hills",
+    "phoneNumber": "9874563210  ",
+    "type": "One Time",
+    "buildingNo": "artistic villa 10/Knightsbridge Court"
+  },
+  {
+    "id": "5",
+    "name": "Anam Amer",
+    "apNo": "apt 1801",
+    "address": "Discovery Garden",
+    "phoneNumber": "9874563210  ",
+    "type": "One Time",
+    "buildingNo": "Executive Tower J by avenue bay mall"
+  },
+  {
+    "id": "6",
+    "name": "Sheetal H Banad",
+    "apNo": "apt 1801",
+    "address": "documentation",
+    "phoneNumber": "9874563210  ",
+    "type": "Weekly",
+    "buildingNo": "building"
+  },
+  {
+    "id": "7",
+    "name": "Dillieshan Somasundaram",
+    "apNo": "apt 1801",
+    "address": "documentation",
+    "phoneNumber": "9874563210  ",
+    "type": "Weekly",
+    "buildingNo": "building"
+  },
+  {
+    "id": "8",
+    "name": "Vinoth thangu",
+    "apNo": "apt 1801",
+    "address": "documentation",
+    "phoneNumber": "9874563210  ",
+    "type": "Monthly",
+    "buildingNo": "building"
+  },
+  {
+    "id": "9",
+    "name": "Muhammad Saad",
+    "apNo": "apt 1801",
+    "address": "documentation",
+    "phoneNumber": "9874563210  ",
+    "type": "Monthly",
+    "buildingNo": "building"
+  },
+  {
+    "id": "10",
+    "name": "Jarltech Gulf",
+    "apNo": "apt 1801",
+    "address": "documentation",
+    "phoneNumber": "9874563210  ",
+    "type": "Monthly",
+    "buildingNo": "building"
+  }
+]
